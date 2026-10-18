@@ -1,0 +1,28 @@
+body{
+text-align: center;
+color: rgb(11, 11, 48)
+
+}
+
+.card{
+    background-color: rgb(139, 185, 245);
+    display:flex ;
+    padding: 20px 20px 20px 20px;
+    border:2px solid rgb(231, 145, 133) ;
+    justify-content: space-around;
+    margin-left: auto;
+    margin-right: auto;
+
+   
+
+
+}
+img{
+    width:200px ;
+    height: 200;
+    border-radius: 50%;
+    border: 2px soild rgb(129, 46, 46);
+}
+.text{
+    padding-top: 20px;
+}
